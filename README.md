@@ -40,11 +40,11 @@
 <br><hr><br>
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imeneallouche&theme=dark&background=000000)](https://git.io/streak-stats)
-<br><br>
-
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imeneallouche&show_icons=true&theme=radical)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imeneallouche&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imeneallouche&show_icons=true&theme=radical)
 
 <br><hr><br>
 ### :writing_hand: Blog Posts :
