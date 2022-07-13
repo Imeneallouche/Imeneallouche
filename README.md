@@ -4,14 +4,19 @@
   <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
   
 - 🔭 I’m currently working on cybersecurity
+
 - 🌱 I’m currently learning more about python and Javascript
+
 - 👯 I’m looking to collaborate on web developpment projects
+
 - 🤔 I’m looking for help with BigData
+
 - 💬 Ask me about computer science
+
 - 📫 How to reach me: li_allouche@esi.dz
+
 - 😄 **slogan** : great satisfaction comes when sharing with others
-- ⚡ Fun fact: ...
--
+
 <br><hr><br>
 ### :hammer_and_wrench: Languages and tools:
 <div>
