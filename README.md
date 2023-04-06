@@ -38,12 +38,14 @@
 
 <br><hr><br>
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imeneallouche&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imeneallouche&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imeneallouche&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<div align="center">
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=Imeneallouche&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=Imeneallouche&theme=dracula&hide_border=false)<br/><br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imeneallouche&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+</div>
 
 <br><hr><br>
 ### :writing_hand: Blog Posts :
