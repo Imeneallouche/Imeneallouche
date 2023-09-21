@@ -4,16 +4,16 @@
   <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
   
 - Currently working on some CTF challenges and HTB machines
-  
+
+- Currently learning more about Cybersecurity
+
 - Ask me about cybersec, I may help X)
 
-- Currently learning more about Cybersecurity 
+- How to reach me: li_allouche@esi.dz
 
-- 📫 How to reach me: li_allouche@esi.dz
+- **slogan** : cbaha deg wul i tella
 
-- 😄 **slogan** : cbaha deg wul i tella
-
-<br><hr><br>
+<br><br><hr><br>
 ### :hammer_and_wrench: Languages and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
