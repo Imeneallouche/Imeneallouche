@@ -3,19 +3,13 @@
 <hr>
   <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
   
-- 🔭 I’m currently working on cybersecurity
+- Currently working on HTB machines
 
-- 🌱 I’m currently learning more about python and Javascript
-
-- 👯 I’m looking to collaborate on web developpment projects
-
-- 🤔 I’m looking for help with BigData
-
-- 💬 Ask me about computer science
+- Currently learning more about Cybersecurity 
 
 - 📫 How to reach me: li_allouche@esi.dz
 
-- 😄 **slogan** : great satisfaction comes when sharing with others
+- 😄 **slogan** : cbaha deg wul i tella
 
 <br><hr><br>
 ### :hammer_and_wrench: Languages and tools:
