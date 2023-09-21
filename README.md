@@ -3,7 +3,9 @@
 <hr>
   <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
   
-- Currently working on HTB machines
+- Currently working on some CTF challenges and HTB machines
+  
+- Ask me about cybersec, I may help X)
 
 - Currently learning more about Cybersecurity 
 
