@@ -1,7 +1,7 @@
- <h1 align="center">Hi there 👋 I am Imene ALLOUCHE</h1>
- <h2 align="center"> a passionate computer science student and cyber security enthusiast  </h2>
+<h1 align="center">Hi there 👋 I am Imene ALLOUCHE</h1>
+<h2 align="center"> a passionate computer science student and cyber security enthusiast  </h2>
 <hr>
-  <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
   
 - Currently working on some CTF challenges and HTB machines
 
