@@ -3,11 +3,9 @@
 <hr>
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
   
-- Currently working on some CTF challenges and HTB machines
+- Currently working on a cybersecurity book
 
-- Currently learning more about Cybersecurity
-
-- Ask me about cybersec, I may help X)
+- Currently learning more about Blockchain Security
 
 - How to reach me: li_allouche@esi.dz
 
