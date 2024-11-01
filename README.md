@@ -6,6 +6,8 @@
 - Currently working on a cybersecurity book
 
 - Currently learning more about Blockchain Security
+  
+- Currently preparing for CPTS ceritfication
 
 - How to reach me: li_allouche@esi.dz
 
