@@ -5,7 +5,9 @@
 
 - Currently learning more about ICS/OT Security
   
-- Interested in Cybersecurity and Blockchain
+- Currently working as a Cybersecrity Instructor
+  
+- Interested in Software Engineering,Cybersecurity and Blockchain Opportunities
   
 - How to reach me: li_allouche@esi.dz
 
