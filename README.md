@@ -1,14 +1,12 @@
 <h1 align="center">Hi there,I am Imene ALLOUCHE</h1>
-<h2 align="center"> a passionate computer science student and cyber security enthusiast  </h2>
+<h2 align="center"> a passionate computer science student and cyber security Instructor  </h2>
 <hr>
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-  
-- Currently working on a cybersecurity book
 
-- Currently learning more about Blockchain Security
+- Currently learning more about ICS/OT Security
   
-- Currently preparing for CPTS ceritfication
-
+- Interested in Cybersecurity and Blockchain
+  
 - How to reach me: li_allouche@esi.dz
 
 
