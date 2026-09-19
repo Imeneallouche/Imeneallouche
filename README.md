@@ -1,6 +1,9 @@
 <h1 align="center">Hi there,I am Imene ALLOUCHE</h1>
+
 <h2 align="center"> Computer Science Engineer | ICS/OT Cybersecurity Researcher & Instructor  </h2>
-<hr>
+
+<br>
+
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 - 🔭 I am currently working as a **Cybersecurity Instructor**
@@ -9,7 +12,7 @@
   
 - 💡 My technical interests include **Cybersecurity**, **Industrial Control Systems (OT/ICS)**, **Agentic AI Workflows**, and **Blockchain Opportunities**
   
-- 📫 How to reach me: **Imene.Allouche@USherbrooke.ca** or **li_allouche@esi.dz**
+- 📫 How to reach me: **li_allouche@esi.dz**
 
 
 <br><br><hr><br>
