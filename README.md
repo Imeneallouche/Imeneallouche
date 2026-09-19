@@ -4,8 +4,11 @@
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 - 🔭 I am currently working as a **Cybersecurity Instructor**
+  
 - 🎓 I hold a **Master's Degree in Computer Science** (Computer Architecture, Network & Security)
+  
 - 💡 My technical interests include **Cybersecurity**, **Industrial Control Systems (OT/ICS)**, **Agentic AI Workflows**, and **Blockchain Opportunities**
+  
 - 📫 How to reach me: **Imene.Allouche@USherbrooke.ca** or **li_allouche@esi.dz**
 
 
