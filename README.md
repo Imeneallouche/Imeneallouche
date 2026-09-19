@@ -32,7 +32,6 @@
 * **Infrastructure & ICS:** Docker, AWS, GCP, Neo4j, Modbus/TCP, OPC UA, Nokia CAMARA APIs (5G Slicing)
 * **Blockchain Security:** Foundry, HardHat, Slither, Mythril, Echidna
 
-* 
 <br><hr><br>
 ### Stats :
 
