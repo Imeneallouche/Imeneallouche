@@ -49,19 +49,6 @@
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imeneallouche&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 </div>
 
-<p align="center">
-  <img
-      src="https://github-stats-extended.vercel.app/api?username=Imeneallouche&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"
-      alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=Imeneallouche&langs_count=4&theme=dracula&hide=html"
-    alt="Top languages"
-  />
-</p>
 
 <p align="center">
   <img
